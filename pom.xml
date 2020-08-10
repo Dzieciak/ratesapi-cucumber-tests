@@ -9,8 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <name>ratesapi-cucumber-tests</name>
-    <!-- FIXME change it to the project's website -->
-    <url>http://www.example.com</url>
+    <url>https://github.com/Dzieciak/ratesapi-cucumber-tests</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
