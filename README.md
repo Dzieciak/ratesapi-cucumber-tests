@@ -18,7 +18,7 @@ Run the following command inside project main directory to execute all tests:
 
 `mvn clean verify -Pcucumber-test -Dcucumber.filter.tags="@Ratesapi" -Dthread.count=4`
 
-Please refer to Cucumber documentation for explanation, how to use 'cucumber.filter.tags' parameter.
+Please refer to Cucumber documentation [Cucumber tags](https://cucumber.io/docs/cucumber/api/#tags) for explanation, how to use 'cucumber.filter.tags' parameter.
 Parameter `thread.count` can be used to specify number of threads for executing scenarios.
 
 ## Reports
