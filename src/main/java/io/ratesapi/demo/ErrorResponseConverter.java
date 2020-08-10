@@ -37,7 +37,7 @@ public class ErrorResponseConverter {
             }
         }
         throw new IllegalArgumentException(
-                String.format("Response with status code %d is not an 4xx error response and cannot be converted to ErrorInfo", status));
+                String.format("Response with status code %d is not an 4xx error response and cannot be converted to ErrorInfo.", status));
     }
 
 }
