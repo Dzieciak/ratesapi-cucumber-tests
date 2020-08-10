@@ -22,7 +22,6 @@
         <rest-assured.version>4.2.0</rest-assured.version>
         <jackson.version>2.11.2</jackson.version>
         <lombok.version>1.18.12</lombok.version>
-
         <thread.count>1</thread.count>
     </properties>
 
